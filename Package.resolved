@@ -20,21 +20,21 @@
         }
       },
       {
-        "package": "MNISTKit",
-        "repositoryURL": "https://github.com/Octadero/MNISTKit.git",
-        "state": {
-          "branch": null,
-          "revision": "15ba9ba1a7e216ba427fbc994e842bed2137142c",
-          "version": "0.0.7"
-        }
-      },
-      {
         "package": "MemoryLayoutKit",
         "repositoryURL": "https://github.com/Octadero/MemoryLayoutKit.git",
         "state": {
           "branch": null,
           "revision": "7a74ab0a6ff2f44a17f1f0d758eaf95afe5455f4",
           "version": "0.0.3"
+        }
+      },
+      {
+        "package": "MNISTKit",
+        "repositoryURL": "https://github.com/Octadero/MNISTKit.git",
+        "state": {
+          "branch": null,
+          "revision": "15ba9ba1a7e216ba427fbc994e842bed2137142c",
+          "version": "0.0.7"
         }
       },
       {
